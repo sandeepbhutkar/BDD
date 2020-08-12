@@ -4,3 +4,4 @@ Feature:  OrangeHRM Logo
     When open orage hrm homepage
     Then verify that the logo present on page
     And close browser
+    #Edit
