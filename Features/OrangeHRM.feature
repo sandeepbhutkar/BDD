@@ -5,3 +5,4 @@ Feature:  OrangeHRM Logo
     Then verify that the logo present on page
     And close browser
     #Edit
+    #Run through cmd >behave OrangeHRM.feature
